@@ -1,0 +1,34 @@
+_repo: Book-of-Detective-Stories-Vol-I-No-11-November-1894_68049
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/49
+    - https://en.wikipedia.org/wiki/Anonymous_work
+  editor:
+    agent_name: Pemmon, Frank
+    gutenberg_agent_id: '54582'
+    url: http://www.gutenberg.org/2009/agents/54582
+description: ''
+gutenberg_issued: '2022-05-11'
+identifiers:
+  gutenberg: '68049'
+language: en
+pgterms:marc904: https://digital.library.villanova.edu/Item/vudl:554913
+pgterms:marc905: 20211225062346pemmon
+pgterms:marc906: '1894'
+pgterms:marc907: us
+production_note: Demian Katz, Craig Kirkwood, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (Images courtesy of the Digital Library@Villanova University.)
+publication_note: United States :A. B. Courtney,1894.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Book of Detective Stories, Vol. I, No. 11, November, 1894
+url: http://www.gutenberg.org/ebooks/68049
